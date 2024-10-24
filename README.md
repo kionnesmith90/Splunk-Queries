@@ -20,15 +20,15 @@ Performing queries in Splunk
 
 ![image](https://github.com/user-attachments/assets/6ac2450b-2956-4346-8515-036ac321c351)
 
-2. Narrow Search and search by host=mailsv
+2. Narrow my search and search by host=mailsv
 
 ![image](https://github.com/user-attachments/assets/be09cb75-71f7-44e2-a57e-c306448ddd60)
 
-3. Search for a failed login attempts for root
+3. Search for failed login attempts for root
 
 ![image](https://github.com/user-attachments/assets/5e6e177d-8693-42f8-9eca-c12b23b32d11)
 
-4. Filtering by Unsuccessful requests (not found requests)
+4. Filtering by unsuccessful requests (not found requests)
 
 ![image](https://github.com/user-attachments/assets/3536b9c7-7534-4bfb-88c3-4426757ca9a8)
 
@@ -38,7 +38,7 @@ Performing queries in Splunk
 
 ![image](https://github.com/user-attachments/assets/d368fb0c-db03-43ec-bfcb-bbe9d651e18c)
 
-- A table displaying the top 10 IP addresses by request count form the previous year
+- A table displaying the top 10 IP addresses by request count from the previous year
 
 ![image](https://github.com/user-attachments/assets/1032d637-1ad2-41c2-b74f-284310d59c5b)
 
